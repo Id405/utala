@@ -31,6 +31,6 @@ Increases the brightness of Players, Chests, Arrows, and Items to increase visib
 
 # Customizability
 
-utala's shaders have options to control what is highlighted, and the opacity of various objects.
+utala's shaders have options to control what is highlighted, and the opacity of hands, weather, and water.
 
 utala's resource pack is seperated into a base, font, and short swords to allow you to choose which features you want.
