@@ -19,7 +19,7 @@ utala is currently in developement, while it is currently functional there are f
 The font is a slightly modified version of the font from [Plast](https://github.com/Plastix/Plast-Pack). However I want to make my own font for this in the future.
 
 ### Mining indicator
-![](images/mining.gif)
+![](images/mining.mp4)
 Adds a mining progress indicator to the edges of the block breaking animation
 
 # Shader Pack Features
