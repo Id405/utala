@@ -20,6 +20,7 @@ The font is a slightly modified version of the font from [Plast](https://github.
 
 ### Mining indicator
 [github only supports gifs for preview and I hate creating gifs so heres a link to a webm of it in action](https://raw.githubusercontent.com/Id405/utala/main/images/mining.webm)
+
 Adds a mining progress indicator to the edges of the block breaking animation
 
 # Shader Pack Features
