@@ -23,6 +23,12 @@ The font is a slightly modified version of the font from [Plast](https://github.
 
 Adds a mining progress indicator to the edges of the block breaking animation
 
+### Misc Changes
+utala also includes other minor changes such as:
+ - Increased visibility on crit particles
+ - The bow string changes color depending on how charged it is
+ - And other minor tweaks
+
 # Shader Pack Features
 While most shaderpacks are focused around increasing visual quality at the cost of performance, utala's is about increasing visibility.
 
@@ -42,3 +48,8 @@ Increases the brightness of Players, Chests, Arrows, and Items to increase visib
 utala's shaders have options to control what is highlighted, and the opacity of hands, weather, and water.
 
 utala's resource pack is seperated into a base, font, and short swords to allow you to choose which features you want.
+
+# TODO
+ - Create a font
+ - Use a trick with custom models to create borders around tools and armor showing its material
+ - Adjust sounds
