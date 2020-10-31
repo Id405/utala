@@ -5,27 +5,34 @@ utala is currently in developement, while it is currently functional there are f
 
 # Resource Pack Features
 ### Ore Borders
+![](images/oreborder.png)
 
 ### Short Swords
+![](images/shortsword.png)
 
 ### Low Fire
+![](images/shortfire.png)
 
 ### Font
+![](images/font.png)
 
 The font is a slightly modified version of the font from [Plast](https://github.com/Plastix/Plast-Pack). However I want to make my own font for this in the future.
 
 ### Mining indicator
-
+![](images/mining.gif)
 Adds a mining progress indicator to the edges of the block breaking animation
 
 # Shader Pack Features
 While most shaderpacks are focused around increasing visual quality at the cost of performance, utala's is about increasing visibility.
 
 # Transparent Hand
+![](images/handopacity.png)
 
 # Increase water and weather transparency
+![](images/opacity.png)
 
 # Chest, Player, Item, and Arrow Highlight
+![](images/highlighting.png)
 
 Increases the brightness of Players, Chests, Arrows, and Items to increase visibility.
 
